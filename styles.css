@@ -1,5 +1,5 @@
 /* ==========================================================
-   Ortal Agiv Bridal – styles
+   Ortal Agiv Dress Designer – styles
    ========================================================== */
 
 :root {
@@ -125,9 +125,9 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
 }
 .logo-sub {
   font-size: 0.62rem;
-  letter-spacing: 0.55em;
+  letter-spacing: 0.32em;
   margin-top: 5px;
-  padding-left: 0.55em;
+  padding-left: 0.32em;
   color: var(--gold-dark);
   font-weight: 500;
 }

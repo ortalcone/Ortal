@@ -1,4 +1,4 @@
-// Ortal Agiv Bridal – site behaviour
+// Ortal Agiv Dress Designer – site behaviour
 (function () {
   "use strict";
 
