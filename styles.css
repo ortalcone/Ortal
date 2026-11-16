@@ -473,6 +473,8 @@ button:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
 .field textarea:focus { border-color: var(--gold); background: var(--white); outline: none; }
 .field textarea { resize: vertical; }
 .field input.invalid { border-color: #b4574a; }
+.wa-fallback { text-align: center; margin: 14px 0 0; font-size: 0.9rem; }
+.wa-fallback a { color: var(--gold-dark); }
 .form-error { color: #b4574a; font-size: 0.9rem; margin: -6px 0 16px; }
 
 /* ---------- Footer ---------- */

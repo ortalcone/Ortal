@@ -89,6 +89,9 @@
     if (message) lines.push("", message);
 
     var url = "https://wa.me/" + WHATSAPP_NUMBER + "?text=" + encodeURIComponent(lines.join("\n"));
+    var fallback = document.getElementById("waFallback");
+    fallback.href = url;
+    fallback.hidden = false;
     window.open(url, "_blank", "noopener");
   });
 })();
